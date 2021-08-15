@@ -397,7 +397,7 @@ class TitleState extends MusicBeatState
 		{
 			case 2:
 				if (Main.watermarks)
-				createCoolText(['FNEG TEAN','FEAT. TaeYai']);
+				createCoolText(['FNEG TEAM','FEAT. TaeYai']);
 			case 3:
 				addMoreText('present');
 			case 4:

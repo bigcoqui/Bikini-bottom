@@ -1889,13 +1889,13 @@
                 ,"mustHitSection" : true
             }
         ]
-        ,"player2" : "dad"
+        ,"player2" : "sponge"
         ,"isHey" : false
         ,"cutsceneType" : "none"
         ,"isSpooky" : false
-        ,"song" : "Best-Day"
+        ,"song" : "best-funkun-day"
         ,"uiType" : "normal"
-        ,"stage" : "stage"
+        ,"stage" : "water"
         ,"sections" : 0
         ,"needsVoices" : true
         ,"gf" : "gf"
